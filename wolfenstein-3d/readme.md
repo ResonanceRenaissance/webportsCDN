@@ -1,0 +1,1 @@
+## I have downloaded the source of wolfenstein 3d and it'll be accompanied as a .zip inside of this folder because the index.html site in this CDN directory is just linking to an arcadehubgaming CDN cause wolfenstein is so ungodly big that it just won't let me upload it all at once
